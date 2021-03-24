@@ -1,0 +1,9 @@
+<!DOCTYPE html> 
+ <html>
+  <head> <!--html belgesinin ilk kısmıdır,title etkite barındırması zorunludur,belgenin başlığını belirler-->
+   <title>basit bir web sayfası</title>
+  </head>
+  <body> <!--belgenin tüm içeriğinin bulunduğu kısımdır-->
+   Merhaba HTML
+  </body>
+ </html>
