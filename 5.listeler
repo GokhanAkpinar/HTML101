@@ -18,3 +18,28 @@
   </ol>
   </body>
  </html>
+
+
+<!DOCTYPE html> 
+ <html>
+  <head> 
+   <title>Türkiye'nin Önemli Takımları</title>
+  </head>
+  <body> 
+  <h2>Şehirlere Göre Futbol Takımları</h2>  <!--bu örnekte ise iç içe listelerin düzenini görüyoruz-->
+  <ul>                  
+      <li>İstanbul Takımları</li>
+      <ul>
+        <li>Beşiktaş</li>
+        <li>Galatasaray</li>  
+        <li>Fenerbahçe</li>
+      </ul>
+   
+  <li>Ankara'daki Futbol Takımları</li>
+  <ul>                 
+    <li>Ankaragücü</li>
+    <li>Gençlerbirliği</li>
+    </ul>
+  </ul>
+  </body>
+ </html>
