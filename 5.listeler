@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+ <html>
+  <head> 
+   <title>basit bir web sayfası</title>
+  </head>
+  <body> 
+  <h2>Futbol Takımları</h2>
+  <ul>                  <!--numaralanmamış liste oluştururken ul etiketi kullanırız-->
+      <li>Beşiktaş</li>
+      <li>Galatasaray</li>  <!--li etiketi ise içindeki elemanları belirtir-->
+      <li>Fenerbahçe</li>
+  </ul>
+  <h2>Futbol Takımları</h2>
+  <ol>                  <!--numaralanmış liste oluştururken ol etiketi kullanırız-->
+    <li>Beşiktaş</li>
+    <li>Galatasaray</li>
+    <li>Fenerbahçe</li> 
+  </ol>
+  </body>
+ </html>
