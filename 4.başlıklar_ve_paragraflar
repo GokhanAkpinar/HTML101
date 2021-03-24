@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+ <html>
+  <head> 
+   <title>basit bir web sayfası</title>
+  </head>
+  <body> 
+   <h1>Merhaba HTML</h1> <!--h1 ve h6 aralığında 6 farklı düzeyde başlık yazılabilir-->
+   <h2>Merhaba HTML</h2>
+   <h6>Merhaba HTML</h6>
+   <p>paragraflar</p> <!--web sayfasındaki metni ayrı paragraflar şeklinde ifade etmek için bu etiket kullanılır-->
+  </body>
+ </html>
