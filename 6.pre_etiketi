@@ -1,0 +1,21 @@
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Örnekler</title>
+  </head>
+  
+<body>   
+    
+    <h3>ÜLKELER VE TAKIMLAR</h3>   <!--sabit genişlikli önceden biçimlendirilmiş bir metin için pre etiketi kullanılır-->
+<pre>
+ÜLKE ADI       TAKIM SAYISI
+TÜRKİYE           21  
+AVUSTURYA         16
+ABD               24
+ALMANYA           19
+<a href="a.htm">Detaylı bilgi için</a>
+</pre>
+
+</body>
+
+</html>
