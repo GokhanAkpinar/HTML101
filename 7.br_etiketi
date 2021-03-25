@@ -1,0 +1,11 @@
+<html>
+  <head>
+   <meta charset="UTF-8">
+  </head>
+  <body>   <!--br etiketi bulunduğu konumdan itibaren satırı sona erdirir ve yeni satırın başına geçilmesini sağlar-->
+    <p>Ben, manevi miras olarak hiçbir nass-ı katı, hiçbir dogma, <br>hiçbir donmuş ve kalıplaşmış kural bırakmıyorum. 
+    <br>Benim manevi mirasım, bilim ve akıldır.</p>
+    <p>Benden sonra beni benimsemek isteyenler, <br> bu temel mihver üzerinde akıl ve<br>
+    ilmin rehberliğini kabul ederlerse manevî mirasçılarım olurlar.</p>
+  </body>
+</html>
