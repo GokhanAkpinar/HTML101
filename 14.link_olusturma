@@ -1,0 +1,16 @@
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Örnekler</title>
+    </head>
+  <body>
+    <h3> Örnek </h3> 
+     <b>Bir varmış, </b> bir yokmuş. <br>    
+     Evvel zaman içinde, <i> kalbur saman içinde... </i> Pireler berber, develer tellal iken..<br>
+     <a href="https://aregem.ktb.gov.tr/TR-12777/masallar.html#:~:text=Bir%20varm%C4%B1%C5%9F%2C%20bir%20yokmu%C5%9F.,ile%20bunun%20%C3%BC%C3%A7%20k%C4%B1z%C4%B1%20varm%C4%B1%C5%9F.">Devamı için</a> <br>  <!--link oluşturma-->
+     <a href="https://aregem.ktb.gov.tr/TR-12777/masallar.html#:~:text=Bir%20varm%C4%B1%C5%9F%2C%20bir%20yokmu%C5%9F.,ile%20bunun%20%C3%BC%C3%A7%20k%C4%B1z%C4%B1%20varm%C4%B1%C5%9F." target="_blank">Devamı için</a> <br>  <!--blank yeni bir pencerede açılmasını sağlar-->
+     <a href="https://aregem.ktb.gov.tr/TR-12777/masallar.html#:~:text=Bir%20varm%C4%B1%C5%9F%2C%20bir%20yokmu%C5%9F.,ile%20bunun%20%C3%BC%C3%A7%20k%C4%B1z%C4%B1%20varm%C4%B1%C5%9F." target="_self">Devamı için</a>  <br> <!--self aynı pencerede açılmasını sağlar-->
+     <a href="https://aregem.ktb.gov.tr/TR-12777/masallar.html#:~:text=Bir%20varm%C4%B1%C5%9F%2C%20bir%20yokmu%C5%9F.,ile%20bunun%20%C3%BC%C3%A7%20k%C4%B1z%C4%B1%20varm%C4%B1%C5%9F." target="_parent">Devamı için</a> <br>  <!--parent bir üst pencerede açılmasını sağlar-->
+     <a href="https://aregem.ktb.gov.tr/TR-12777/masallar.html#:~:text=Bir%20varm%C4%B1%C5%9F%2C%20bir%20yokmu%C5%9F.,ile%20bunun%20%C3%BC%C3%A7%20k%C4%B1z%C4%B1%20varm%C4%B1%C5%9F." target="_top">Devamı için</a> <br>  <!--top en üst pencerede açılmasını sağlar-->
+  </body>
+  </html>
