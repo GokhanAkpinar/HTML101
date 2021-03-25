@@ -1,0 +1,11 @@
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <title></title>
+    </head>
+  <body>
+    <h3> Örnek </h3> 
+     <s>Bir varmış, </s> bir yokmuş. <br>    <!--s ve strike etiketleri metnin üzerini çizmek için kullanılır-->
+     Evvel zaman içinde, <strike> kalbur saman içinde... </strike> Pireler berber, develer tellal iken<br>
+  </body>
+  </html>
