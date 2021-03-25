@@ -1,0 +1,11 @@
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Örnekler</title>
+    </head>
+  <body>
+    <h3> Örnek </h3> 
+     <b>Bir varmış, </b> bir yokmuş. <br>    <!--b metni bold(koyu) yapar,i etiketleri metnin italik yazılmasını sağlar-->
+     Evvel zaman içinde, <i> kalbur saman içinde... </i> Pireler berber, develer tellal iken..<br>
+  </body>
+  </html>
